@@ -1,0 +1,42 @@
+
+========== ELECTRICITY BILL ==========
+Customer ID   : 34553
+Customer Name : janvi
+Units Used    : 300.0
+
+========== ELECTRICITY BILL ==========
+Customer ID   : Rs8488449
+Customer Name : Rsriya
+Units Used    : Rs350.0
+Bill Amount   : Rs1350.0
+======================================
+
+========== ELECTRICITY BILL ==========
+Customer ID   : 5353
+Customer Name : riya
+Units Used    : 310.0
+Bill Amount   : 1070.0
+======================================
+
+==========================================
+           ELECTRICITY BILL
+==========================================
+Customer ID   : 34556
+Customer Name : janvi
+Units Used    : 345.0
+
+==========================================
+           ELECTRICITY BILL
+==========================================
+Customer ID   : 23444
+Customer Name : janvi
+Units Used    : 456.0
+Total Bill    : 2092.00
+==========================================
+
+====================================
+       ELECTRICITY BILL
+====================================
+Customer ID   : 34222
+Customer Name : amit
+Units Used    : 450.0
